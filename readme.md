@@ -1,6 +1,7 @@
 # Emojidumper
 
 An emoji dumper for Discord written in Javascript.
+-The old repository has been deleted due to a mishap while pushing changes-
 
 ## Requirements and dependencies
 
